@@ -1,5 +1,7 @@
 # Amazon Nova Sonic Call Center Agent w/ Tools
 
+csc130 version
+
 **Overview**
 
 This template provides an AWS cloud-based solution for deploying applications that interact with the Amazon Nova Sonic Model. It serves as a foundation for developing future speech-to-speech tooling use cases. Unlike other implementations that required locally hosted backend and frontend, this cloud architecture leverages:
